@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This is a simple lightweight template for getting started creating Scala projects. 
 It consists of a simple 'Hello World' program and some sample tests. 
 
@@ -69,3 +70,7 @@ For more information see [here](https://github.com/harrah/xsbt/wiki/Getting-Star
 For comments, questions, etc. please see the accompanying [blogpost](http://tech.damianhelme.com/scala-sbt-template).
 
 
+=======
+# Yanthram
+Preprocessor for weka
+>>>>>>> fa0c9b1d6caaea139a8fced1341c28452e23e3f8
