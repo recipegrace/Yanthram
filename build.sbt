@@ -3,7 +3,7 @@ name := "Yanthram"
 
 version := "0.0.1"
 
-scalaVersion := "2.10.6"
+scalaVersion := "2.10.5"
 
 organization := "com.recipegrace"
 
